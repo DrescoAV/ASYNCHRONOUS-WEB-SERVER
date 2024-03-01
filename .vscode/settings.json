@@ -1,8 +1,0 @@
-{
-    "files.associations": {
-        "util.h": "c",
-        "errno.h": "c",
-        "libaio.h": "c",
-        "stdio.h": "c"
-    }
-}
